@@ -2,27 +2,16 @@
     --vfd-main: #d1e5ed;
     /*--vfd-main: #999284;*/
     --vfd-red: #ff3c22;
-    --vfd-orange: #ff8800;
-    --vfd-glow: #02a79c;
     --vfd-shadow-main: rgba(176, 254, 255, 0.35);
     --vfd-shadow-red: rgba(255, 60, 34, 0.6);
     --vfd-sep-line: #1a1a1a;
     --bg-color: #7a7a7a;
     --panel-color: #1e1e1e;
-    --panel-top: #2b2b2b;
-    --panel-bottom: #161616;
     --text-color: #b0b0b0;
-    --header-text: #777;
-    --panel-border: #111;
     --display-border: #0a0a0a;
-    --btn-bg: #252525;
     --btn-border: #3a3a3a;
     --btn-text: #949494;
-    --shuttle-bg: #0a0a0a;
-    --shuttle-thumb: #262626;
-    --shuttle-label: #a8a8a8;
     --shadow-main: rgba(0, 0, 0, 0.95);
-    --accent-line: #c8a84b;
 }
 
 * {
@@ -2041,11 +2030,8 @@ input[type="range"]::-moz-range-thumb {
     font-weight: normal;
     letter-spacing: 1px;
     text-transform: uppercase;
-    color: var(--btn-text);
+    color: black;
     margin-left: 1190px;
-    opacity: 0.5;
+    opacity: 0.7;
     user-select: none;
-    text-shadow:
-        -1px -1px 0px rgba(0, 0, 0, 0.6),
-        1px 1px 1px rgba(255, 255, 255, 0.1);
 }
