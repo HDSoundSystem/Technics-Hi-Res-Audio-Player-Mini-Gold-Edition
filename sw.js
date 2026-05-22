@@ -1,9 +1,9 @@
-const CACHE_NAME = 'Technics-HR-v11';
+const CACHE_NAME = 'Technics-HR-Gold-v1';
 const ASSETS = [
   './',
   './index.html',
   './css/common.css',
-  './css/style-dark.css',
+  './css/style.css',
   './script.js',
   './img/technics_brand_1.webp',
   './img/technics_brand_2.webp',
