@@ -1,0 +1,18 @@
+{
+  "id": "technics-hifi-mini",
+  "name": "Technics Hi-Fi Player Gold Edition",
+  "short_name": "Technics Hi-Fi Player",
+  "start_url": "https://hdsoundsystem.github.io/Technics-Hi-Res-Audio-Player-Mini-Gold-Edition/",
+  "scope": "/Technics-Hi-Res-Audio-Player-Mini-Gold-Edition/",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#080808",
+  "icons": [
+    {
+      "src": "img/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
