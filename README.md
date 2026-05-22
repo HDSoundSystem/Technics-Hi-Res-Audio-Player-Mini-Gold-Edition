@@ -4,8 +4,7 @@ A high-fidelity web application emulating the aesthetics and user experience of 
 
 <img width="1257" height="197" alt="Technics_cover" src="https://github.com/user-attachments/assets/4cbd644c-e987-4431-b7e1-9cbaeafd9f76" />
 .
-
-
+<img width="1875" height="794" alt="1" src="https://github.com/user-attachments/assets/3b1b2421-657d-41da-a5f6-11a38db805f9" />
 
 ## 📱 Overview
 
